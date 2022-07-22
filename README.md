@@ -4,7 +4,7 @@ An adversary may utilize a sim swapping attack for defeating 2fa authentication.
 
 ## Example #1
 1. Adversary steals the username and password pair for website
-2. Adversary compromises the victim's phone (physically or remotely)
+2. Adversary compromises the victim's phone (convinces cell phone provider to swap victim's phone number with a different sim they own)
 3. Adversary logs in with the stolen username and password
 4. Adversary receives a pin code on the compromised phone and uses it for verification.
 
