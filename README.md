@@ -15,8 +15,6 @@ High
 - gain unauthorized access
 
 ## Redemption
-- increase code length
-- limit pin code submissions
 - use more factors
 
 ## ID
